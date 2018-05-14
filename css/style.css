@@ -7,3 +7,9 @@
     -moz-opacity:0.8;
     -webkit-opacity:0.8;
 }
+
+.instaimg {
+    overflow: hidden;
+    height: 255px;
+    margin-bottom: 30px;
+}
